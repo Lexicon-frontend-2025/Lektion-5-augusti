@@ -1,4 +1,4 @@
-# 📅 SCHEMA Mondag 5 augusti
+# 📅 SCHEMA Tisdag 5 augusti
 
 Övergripande schema över dagen
 
